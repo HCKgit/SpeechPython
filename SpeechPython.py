@@ -4,8 +4,10 @@
 # several modules were installed to get this to work. 
 # ie. 
 #   pip install wikipedia
-#   pip install speech_recognition
+#   pip pip install SpeechRecognition
+#   pip install pyaudio
 #   pip install pygame
+#   pip install gtts
 #
 #   pip install googletrans (working on this later)
 #   
