@@ -1,0 +1,17 @@
+https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14/52284344#52284344
+
+(venv)
+Colin@ThoughtTrailGate MINGW64 ~/repo/Python/SpeechPython (master)
+$ pip install PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+Processing c:\users\colin\repo\python\speechpython\pyaudio-0.2.11-cp39-cp39-win_amd64.whl
+Installing collected packages: PyAudio
+Successfully installed PyAudio-0.2.11
+WARNING: You are using pip version 20.2.3; however, version 21.1.2 is available.
+
+(venv)
+Colin@ThoughtTrailGate MINGW64 ~/repo/Python/SpeechPython (master)
+$ python SpeechPython.py
+pygame 2.0.1 (SDL 2.0.14, Python 3.9.2)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Say something!
+You said: well yeah I'll say something
