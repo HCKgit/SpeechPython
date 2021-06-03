@@ -16,7 +16,8 @@
 #   pip install wikipedia
 #   pip install speech_recognition ?
 #   pip install SpeechRecognition
-#   pip install pygame
+#   pip install pygame ?
+#   pip install gtts
 #
 #   pip install googletrans (working on this later)
 #   
