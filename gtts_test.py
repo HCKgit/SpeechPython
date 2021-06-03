@@ -1,5 +1,9 @@
 # https://www.geeksforgeeks.org/convert-text-speech-python/
 # https://readthedocs.org/projects/gtts/downloads/pdf/latest/
+# also to try https://deepspeech.readthedocs.io/en/r0.9/USING.html
+# also to try https://www.raspberrypi.org/forums/viewtopic.php?t=275910
+# aside: https://www.linode.com/docs/guides/visualize-apache-web-server-logs-using-elastic-stack-on-debian-10/
+
 
 # Import the required module for text
 # to speech conversion
